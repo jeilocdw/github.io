@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bad USB flash drive
+* source:	https://sketchfab.com/3d-models/bad-usb-flash-drive-1306677a8ad340b6b44a8a9c47f12e04
+* author:	Dead_Cell (https://sketchfab.com/Dead_Cell)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bad USB flash drive" (https://sketchfab.com/3d-models/bad-usb-flash-drive-1306677a8ad340b6b44a8a9c47f12e04) by Dead_Cell (https://sketchfab.com/Dead_Cell) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
